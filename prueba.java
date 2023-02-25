@@ -30,6 +30,7 @@ public class prueba {
 		
 		return num1+num2+num3;
 	}
+	Escanear.close;
 }
 	class Coche{
 		public int puertas=0;
